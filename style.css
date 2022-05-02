@@ -120,7 +120,8 @@ body{
     width:15%;
     border-radius: 20px;
     border: none;
-    box-shadow: inset;   
+    box-shadow: inset; 
+     
 }
 .projects img{
     margin-bottom:-10%;
@@ -136,6 +137,7 @@ body{
     justify-content: center;
     background-color:#fcf2f6;
     margin-top:10%;
+    padding:10px;
     
 }
 .num-1{
